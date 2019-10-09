@@ -1,6 +1,4 @@
-"""Write a program to find probability of drawing an ace from pack of cards
-"""
-
+"""Write a program to find probability of drawing an ace from pack of cards"""
 
 total_no_of_aces=4
 total_cards=52

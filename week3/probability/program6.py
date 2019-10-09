@@ -2,8 +2,7 @@
  mammogram result?
 a. One percent of women over 50 have breast cancer.
 b. Ninety percent of women who have breast cancer test positive on mammograms.
-c. Eight percent of women will have false positives.
-"""
+c. Eight percent of women will have false positives."""
 
 
 PA=(1/100) #Probability that a women has cancer(Hypothesis)

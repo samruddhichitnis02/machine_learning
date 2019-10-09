@@ -3,7 +3,6 @@ of 90 km/hr and a standard deviation of 10 km/hr. Write a program to find the pr
 random is travelling at more than 100 km/hr?"""
 
 
-
 def calculation_of_Z(X):
     Mu=90 #value of mean from the statement
     Sigma=10 #value of standard deviation from the statement

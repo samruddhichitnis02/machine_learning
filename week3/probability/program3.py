@@ -1,6 +1,5 @@
 """Write a program to find the probability of drawing an ace after drawing an ace on the first draw"""
 
-
 total_no_of_aces=4
 total_cards=52
 

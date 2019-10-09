@@ -1,8 +1,7 @@
 """You toss a fair coin three times write a program to find following:
 What is the probability of three heads, HHH?
 What is the probability that you observe exactly one heads?
-Given that you have observed at least one heads, what is the probability that you observe at least two heads?
-"""
+Given that you have observed at least one heads, what is the probability that you observe at least two heads?"""
 
 
 
