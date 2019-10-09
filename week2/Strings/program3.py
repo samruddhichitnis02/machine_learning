@@ -4,6 +4,7 @@ Sample String : 'restart'
 Expected Result : 'resta$t'"""
 
 
+
 n=input('Enter a string-')
 a=n[0]
 for i in range(len(n)):

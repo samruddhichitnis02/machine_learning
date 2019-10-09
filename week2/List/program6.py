@@ -1,6 +1,7 @@
 """Write a Python program to remove duplicates from a list.  """
 
 
+
 x=[ ]
 n=int(input('Enter the number of elements-'))
 for i in range(n):

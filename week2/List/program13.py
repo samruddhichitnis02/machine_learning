@@ -1,6 +1,5 @@
 """ Write a Python program to append a list to the second list"""
 
-
 x=[ ]
 n=int(input('Enter the number of elements-'))
 for i in range(n):

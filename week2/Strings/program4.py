@@ -7,6 +7,7 @@ Sample String : 'string'
 Expected Result : 'stringly'
 """
 
+
 n=input('Enter a string-')
 if(len(n)>=3):
     if n[-3:]=='ing':

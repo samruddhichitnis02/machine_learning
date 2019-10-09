@@ -1,5 +1,5 @@
-"""Write a Python program to get the number of occurrences of a specified element in an array.
-"""
+"""Write a Python program to get the number of occurrences of a specified element in an array."""
+
 from array import *
 a=array('i',[ ])
 n=int(input('Enter the number of elements-'))

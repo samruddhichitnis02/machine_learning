@@ -1,6 +1,7 @@
 """Write a Python program to find common items from two lists."""
 
 
+
 x=[ ]
 n=int(input('Enter the number of elements-'))
 for i in range(n):

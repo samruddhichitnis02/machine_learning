@@ -4,6 +4,7 @@ New List : [[10, 20], [30, 56, 25], [33], [40]]
 """
 
 
+
 x=[ ]
 n=int(input('Enter the number of lists-'))
 for i in range(n):

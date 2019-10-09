@@ -2,6 +2,8 @@
 Sample List : ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
 Expected Output : ['Green', 'White', 'Black']
 """
+
+
 x=[ ]
 n=int(input('Enter the number of elements-'))
 for i in range(n):

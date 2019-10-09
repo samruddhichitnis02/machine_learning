@@ -1,4 +1,5 @@
 """Write a Python program to sum all the items in a list"""
+
 x=[ ]
 n=int(input('Enter the number of elements-'))
 for i in range(n):

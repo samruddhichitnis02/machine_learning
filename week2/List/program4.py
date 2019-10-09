@@ -4,7 +4,6 @@ Sample List : ['abc', 'xyz', 'aba', '1221']
 Expected Result : 2
 """
 
-
 x=[ ]
 y=[ ]
 n=int(input('Enter the number of elements-'))

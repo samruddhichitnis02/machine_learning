@@ -1,5 +1,5 @@
-"""Write a Python program to remove the first occurrence of a specified element from an array.
-"""
+"""Write a Python program to remove the first occurrence of a specified element from an array."""
+
 x=[ ]
 n=int(input('Enter the number of elements-'))
 for i in range(n):
