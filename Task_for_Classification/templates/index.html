@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Classification Using Different Algorithms</title>
+</head>
+<body>
+    <div class="login">
+	<h1>Activity Recognition</h1>
+
+    <form action="{{ url_for('predict')}}" method="post">
+        <input type = "text" name = "Time(secs)" placeholder="Time(secs)"  required="required" />
+        <input type = "text" name = "Acceleration_G(frontal axis)" placeholder="Acceleration_G(frontal axis)"  required="required" />
+        <input type = "text" name = "Acceleratoin_g(vertical axis)" placeholder="Acceleratoin_g(vertical axis)"  required="required" />
+        <input type = "text" name = "Acceleration_G(lateral axis)" placeholder="Acceleration_G(lateral axis)"  required="required" />
+        <input type = "text" name = "Id_of_sensor_antenna" placeholder="Id_of_sensor_antenna"  required="required" />
+        <input type = "text" name = "RSSI" placeholder="RSSI"  required="required" />
+        <input type = "text" name = "phase" placeholder="phase"  required="required" />
+        <input type = "text" name = "frequency" placeholder="frequency"  required="required" />
+
+                <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+
+    </form>
+    <br>
+    <br>
+
+
+
+    </div>
+</body>
+</html>

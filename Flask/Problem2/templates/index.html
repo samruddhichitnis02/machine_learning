@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Machine Learning Model for Detection of HIV-1 Protease Cleavage for given Amino Acid</title>
+</head>
+<body>
+    <h1> HIV-1 protease Cleavage </h1>
+
+
+    <form action="{{ url_for('predict')}}" method="post">
+    <input type = 'text' name="Amino_Acid" placeholder="Amino_Acid" required = "required"/>
+        <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+
+
+    </form>
+    <br>
+    <br>
+
+</body>
+</html>
