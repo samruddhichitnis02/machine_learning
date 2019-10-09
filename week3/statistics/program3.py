@@ -1,6 +1,5 @@
 """Write a program to perform multiplication of given matrix and vector
-			X = [[ 5, 1 ,3], [ 1, 1 ,1], [ 1, 2 ,1]], Y = [1, 2, 3]
-"""
+			X = [[ 5, 1 ,3], [ 1, 1 ,1], [ 1, 2 ,1]], Y = [1, 2, 3]"""
 
 
 

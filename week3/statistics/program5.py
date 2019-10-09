@@ -1,6 +1,7 @@
 """Write a program to find inverse matrix of matrix X in problem 1	"""
 
 
+
 X=[[12,7,3],
    [4,5,6],
    [7,8,9]]

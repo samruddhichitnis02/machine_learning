@@ -9,6 +9,7 @@
 #    [4,5,9]]
 
 
+
 def store_in_X():  #Creating a Matrix for X by taking input from user
     X=[ ]
     m=int(input('Enter the number of rows-'))
