@@ -3,6 +3,8 @@ from flask import Flask, request, render_template
 import pickle
 
 
+
+
 app =  Flask(__name__)  #created the instance of the Flask()
 objects = pickle.load(open('model.pkl', 'rb')) #Load the trained model in to model
 standard_x = objects['standard_x']
