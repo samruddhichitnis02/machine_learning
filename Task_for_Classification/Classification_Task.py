@@ -6,13 +6,12 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, confusion_matrix
 from sklearn.preprocessing import StandardScaler
+
 import warnings
 warnings.filterwarnings('ignore')
 import pickle
 import pandas as pd
 from prettytable import PrettyTable
-
-
 
 
 import glob
