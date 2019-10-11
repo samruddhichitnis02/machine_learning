@@ -4,6 +4,7 @@ import pickle
 import pandas as pd
 
 
+
 app =  Flask(__name__)  #created the instance of the Flask()
 objects = pickle.load(open('model.pkl', 'rb')) #Load the trained model in to model
 ohe = objects['ohe']
