@@ -4,7 +4,6 @@ import numpy as np
 import pickle
 
 
-
 class Single_Trainer:
     def __init__(self):
         pass

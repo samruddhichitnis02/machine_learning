@@ -2,6 +2,7 @@ from Single_Utility import Single_Trainer
 from Data_Preprocessing import Data_Preprocessing
 
 
+
 obj = Data_Preprocessing()
 x_train, y_train, x_test, y_test = obj.choice()
 obj1 = Single_Trainer()
