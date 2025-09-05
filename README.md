@@ -1,1 +1,1 @@
-This Repository Consists of weekly Tasks on different Machine Learning Algorithms
+This repository contains weekly tasks on various Machine Learning algorithms, completed during my fellowship at Bridgelabz Technologies Pvt. Ltd.
