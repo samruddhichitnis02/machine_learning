@@ -1,1 +1,1 @@
-This Repository Consists of weekly Tasks on different Machine Learning Algorithms
+This Repository Consists of weekly Tasks on different Machine Learning Algorithms, where I have built some machine algorithms like Linear Regression, Logistic Regression, Aritificial Neural Network from scratch
